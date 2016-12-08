@@ -1,23 +1,3 @@
-// ESP8266 Captive Portal - https://www.hackster.io/rayburne/esp8266-captive-portal-5798ff
-// ESP-RADIO - https://github.com/Edzelf/Esp-radio
-// ESPAsyncWebServer - https://github.com/me-no-dev/ESPAsyncWebServer
-// SOFTAP - Get List of Connected Clients - http://www.esp8266.com/viewtopic.php?f=32&t=5669
-// How to print free memory - http://forum.wemos.cc/topic/175/how-to-print-free-memory
-// WebSocketToSerial - https://github.com/hallard/WebSocketToSerial.git
-// JQueryTerminal - https://github.com/jcubic/jquery.terminal
-// OTA Update - http://www.penninkhof.com/2015/12/1610-over-the-air-esp8266-programming-using-platformio/
-// Piezo Beep - http://framistats.com/2015/06/07/esp8266-arduino-smtp-server-part-2/
-// Simple Audio Board - http://bitcows.com/?p=19
-// Tone Doesn't Work - https://www.reddit.com/r/esp8266/comments/46kw38/esp8266_calling_tone_function_does_not_work/
-// ArduinoJson - https://github.com/bblanchon/ArduinoJson
-// EEPROM - https://gist.github.com/dogrocker/f998dde4dbac923c47c1
-// Exception Causes - https://github.com/esp8266/Arduino/blob/master/doc/exception_causes.md
-// WiFi Scan- https://www.linuxpinguin.de/project/wifiscanner/
-// SPIFFS - https://github.com/esp8266/Arduino/blob/master/doc/filesystem.md
-//          http://blog.squix.org/2015/08/esp8266arduino-playing-around-with.html
-// WiFiManager - https://github.com/tzapu/WiFiManager
-// ESP-GDBStub - https://github.com/esp8266/Arduino/tree/master/libraries/GDBStub
-
 #include <stdio.h>
 #include <string.h>
 
